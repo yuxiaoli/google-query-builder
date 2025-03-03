@@ -1,4 +1,3 @@
-```markdown
 # Google Search Query Builder
 
 Google Search Query Builder is a Python command-line tool that generates a Google search query string with various filters. It supports adding standard Google search operators as well as optional Ahrefs filters. Additionally, it can translate the main search query into English if it is in a different language using the [deep-translator](https://pypi.org/project/deep-translator/) library.
@@ -125,4 +124,3 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 ## Contact
 
 For questions or feedback, please open an issue in the GitHub repository.
-```
