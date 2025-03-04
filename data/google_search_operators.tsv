@@ -1,0 +1,12 @@
+ID	Use Case	Operators/Techniques	Description/Example
+1	Find possible indexing issues	site:, filetype:	Search your website for files (like PDFs) that are indexed—useful for spotting unintentional indexing of gated content.
+2	Find and analyze your competitors	related:, site:, intitle:	Identify competitor sites by finding related domains and examining their content structure (e.g. using site:moz.com).
+3	Find guest post opportunities	intitle:"write for us", inurl:write-for-us, inurl:author:	Locate guest posting pages by searching for “write for us” or by tracking guest bloggers’ author pages.
+4	Find resource page opportunities	intitle:resources, inurl:resources	Discover curated resource pages in your niche that you can pitch your own resource to.
+5	Find files you don’t want indexed	site:, filetype:	Identify files such as PDFs behind lead magnets that are publicly indexed and may need noindex tags.
+6	Find contact email addresses	site:twitter.com (with email domains like gmail.com or ahrefs.com)	Search on Twitter for tweets that mention email addresses to quickly locate contact info.
+7	Find internal link opportunities	site: with keyword search; Internal Link Opportunities tool	Use targeted site searches to spot pages mentioning key terms, then add contextual internal links.
+8	Find “best” listicles excluding your brand	best [topic] -[brand]	Search for listicles (e.g. “best email marketing tools”) while excluding your brand to uncover outreach opportunities.
+9	Find websites reviewing competitors	allintitle: review (competitor1 OR competitor2), after:	Locate sites that review competitor products, which might also be open to reviewing your own.
+10	Find relevant Quora questions	site:quora.com inurl:([topic])	Search Quora for questions on your niche, then use SEO tools to identify high-traffic threads to answer.
+11	Find competitor publishing pace	site:, before:, after:	Combine these operators to check how many posts a competitor has published over a set time period.
